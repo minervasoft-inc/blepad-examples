@@ -8,7 +8,8 @@ BlePadと実機がBluetoothで実際に通信できていることを手軽に�
 
 ## アプリの入手
 
-- Google Play / App Store のリンク：（追加予定）
+- [App Store](https://apps.apple.com/jp/app/blepad/id6787904993)
+- [Google Play](https://play.google.com/store/apps/details?id=jp.co.minervasoft.blepad&hl=ja)
 
 ## サンプル一覧
 

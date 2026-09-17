@@ -9,7 +9,8 @@ using cheap, easy-to-source hardware.
 
 ## Getting the app
 
-- Google Play / App Store links: (to be added)
+- [App Store](https://apps.apple.com/app/blepad/id6787904993)
+- [Google Play](https://play.google.com/store/apps/details?id=jp.co.minervasoft.blepad)
 
 ## Examples
 
