@@ -58,4 +58,4 @@ top of the sketch if it conflicts with your ESP32 board's pin layout.
 
 ## Video
 
-(To be added)
+https://github.com/user-attachments/assets/b635ce16-0088-4aa8-8cc3-22a6d96031aa
