@@ -56,4 +56,4 @@ purely event-driven to keep its memory footprint small.
 
 ## Video
 
-(To be added)
+https://github.com/user-attachments/assets/90d18364-a758-455c-992a-982220569121
