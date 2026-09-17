@@ -56,4 +56,4 @@ L  .  .  .  R
 
 ## 動画
 
-（後日追加予定）
+https://github.com/user-attachments/assets/90d18364-a758-455c-992a-982220569121
