@@ -58,4 +58,4 @@ UUIDを使用しています。
 
 ## 動画
 
-（後日追加予定）
+https://github.com/user-attachments/assets/b635ce16-0088-4aa8-8cc3-22a6d96031aa
