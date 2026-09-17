@@ -33,4 +33,4 @@ BlePad アプリの QWERTY キーボード画面でタップした文字を、mi
 
 ## 動画
 
-（後日追加予定）
+https://github.com/user-attachments/assets/5a6a0f2b-2de3-49fd-bef6-589438f190fa
