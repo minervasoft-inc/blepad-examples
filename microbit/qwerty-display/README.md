@@ -33,4 +33,4 @@ A happy face icon is shown on a successful connection, and a sad face icon on di
 
 ## Video
 
-(To be added)
+https://github.com/user-attachments/assets/5a6a0f2b-2de3-49fd-bef6-589438f190fa
